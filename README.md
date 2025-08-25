@@ -80,7 +80,7 @@ Código
 
 ### Pré Processamento
 
-* Onde deu inicio a analise exploratória, no arquivo **pre_processamento.ipynb** um notebook python e onde todos os passos abaixo estão contidos e finaliza o pré processamento. 
+* Onde deu inicio a analise exploratória, no arquivo **01_pre_processamento.ipynb** no diretório **notebooks**,contem um jupyter notebook onde todos os passos abaixo estão contidos e finaliza o pré processamento. 
     
     1. Carregar o dataset;
     2. Verificar suas informações gerais;
@@ -93,7 +93,7 @@ Código
 
 ### Analise dos Dados
 
-* No arquivo **analise_dados.ipynb** um notebook python, onde todos os passos abaixo estão contidos, foi utilizado tecnicas de agrupamentos para evidenciar, comparar, analisar distribuições, examinar estatiticas, identificar corelações entre outros aspectos pedidos, utilizando alguns gráficos de barra, pizza e linha para enfatizar os ponto necessários.
+* No arquivo **02_analise_dados.ipynb** no diretório **notebooks** contem um jupyter notebook, onde todos os passos abaixo estão contidos, foi utilizado tecnicas de agrupamentos para evidenciar, comparar, analisar distribuições, examinar estatiticas, identificar corelações entre outros aspectos pedidos, utilizando alguns gráficos de barra, pizza e linha para enfatizar os ponto necessários.
 
     1. Carregar o dataset e verificar suas informações gerais;
     2. Examinar as estatísticas descritivas das variáveis numéricas, verificando médias, medianas, desvios padrão, mínimos e máximos.
@@ -113,7 +113,7 @@ Código
 
 ### Questionamentos
 
-* No arquivo **questionamentos.ipynb** um notebook python e onde todos os questionamentos foram respondidos.
+* No arquivo **03_questionamentos.ipynb** no diretório **notebooks** contem um notebook python e onde todos os questionamentos foram respondidos.
 
     1. Há departamentos ou gêneros que apresentam taxas de admissão ou rejeição desproporcionalmente altas ou baixas?
     2. Há equilíbrio na distribuição de gêneros nos departamentos?
